@@ -1,0 +1,21 @@
+{
+  "name": "skill-goldprice",
+  "version": "1.0.0",
+  "description": "获取实时贵金属价格的Skill",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "keywords": [
+    "gold",
+    "price",
+    "贵金属",
+    "金价"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}
